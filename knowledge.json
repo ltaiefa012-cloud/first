@@ -1,0 +1,37 @@
+{
+  "company_overview": "EMWorks is an engineering software company specializing in electromagnetic and multiphysics simulation solutions. Its tools help engineers analyze, predict, and optimize designs before manufacturing.",
+  
+  "emworks_tunisia": "ABBK Physicwork, also known as EMWorks Tunisia, is an official partner and reseller of EMWorks solutions in Tunisia. The company provides software distribution, training, and technical support for engineers and educational institutions.",
+
+  "products": {
+    "EMS": "EMS is a 3D electromagnetic simulation suite integrated into SOLIDWORKS and Autodesk Inventor. It allows simulation of electric and magnetic fields, motors, transformers, and power systems.",
+    "HFWorks": "HFWorks is designed for high-frequency and RF applications such as antennas, microwave circuits, and wireless systems.",
+    "MotorWizard": "MotorWizard is a template-based tool for electric motor design, enabling fast configuration and performance analysis."
+  },
+
+  "services": [
+    "Engineering consulting",
+    "Electromagnetic and multiphysics simulation",
+    "Professional training and certification",
+    "Technical support",
+    "Custom engineering solutions"
+  ],
+
+  "industries": [
+    "Automotive",
+    "Aerospace",
+    "Energy systems",
+    "Consumer electronics",
+    "Education and research"
+  ],
+
+  "benefits": [
+    "Reduced development time",
+    "Lower prototyping costs",
+    "Accurate simulation results",
+    "Seamless CAD integration",
+    "Improved design reliability"
+  ],
+
+  "contact": "Clients can request a demo, pricing information, or technical support by contacting EMWorks Tunisia directly."
+}
